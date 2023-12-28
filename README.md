@@ -2,6 +2,8 @@
 
 Бронирование отелей на Flutter.
 
+https://drive.google.com/file/d/1Sp6r8cMbOktljmsSVMPwE5EyeCqxwvvw/view?usp=drive_link
+
 ## Жизненный цикл приложения
 
 ![image](https://github.com/DelayStepback/booking_hotel_em/assets/79159215/210afbbc-84e1-486a-8de5-159a5ad57e9a)
